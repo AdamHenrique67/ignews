@@ -1,0 +1,21 @@
+{
+  "id": "8b1032ac-53a7-4eef-89b3-3fa4530babca",
+  "uid": "pariatur-veniam-harum",
+  "type": "publication",
+  "data": {
+    "title": [
+      {
+        "type": "paragraph",
+        "text": "Mollit ex ea non. Laboris ipsum deserunt cupidatat adipisicing velit adipisicing incididunt sit sunt ipsum eiusmod. Laborum laboris reprehenderit adipisicing velit id amet ullamco amet.",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Ullamco ex proident consectetur consectetur veniam non est enim incididunt reprehenderit excepteur incididunt sint. Adipisicing Lorem esse aute elit.",
+        "spans": []
+      }
+    ]
+  }
+}
